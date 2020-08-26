@@ -1,5 +1,4 @@
-## Swift Potion Reborn
-
+## Animated Wings Ultimate
 **Link:** https://www.nexusmods.com/skyrimspecialedition/mods/34571 (Animated Wings Ultimate (No Flying Mod Integration))
 
 **Summary:** 83 fully animated feathered, dragon, bound, and fairy wings packed with configurable immersive effects and customizable controls.
