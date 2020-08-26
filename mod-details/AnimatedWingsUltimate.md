@@ -1,4 +1,4 @@
-## Swift Potion Reborn
+## Animated Wings Ultimate
 
 **Link:** https://www.nexusmods.com/skyrimspecialedition/mods/34571 (Animated Wings Ultimate (No Flying Mod Integration))
 
