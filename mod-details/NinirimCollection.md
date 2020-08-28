@@ -21,7 +21,7 @@ _None_
 
 **Load/Install Order Notes:**
 * WinterdrakeX (LS2 version 2.2.1)
-  * Install and move this mod upwards before the separator named "Items - Female Armors". It should only overwrite "unofficial performance optimized textures AKA (UPOT)". Let others overwrite it.
+  * Install and move this mod upwards after the separator named "Items - Female Armors". It should only overwrite "unofficial performance optimized textures AKA (UPOT)". Let others overwrite it.
   * Put [Sunjeong] Ninirim Collection.esp a few mods before ELE_SSE.esp (apparently if you stick some mod right before ELE_SSE.esp it sometimes still overwrite ELE_SSE.esp).
   * Add JOR_Ninirim_Occlusion_Patch.esp after Occlusion.esp
 
