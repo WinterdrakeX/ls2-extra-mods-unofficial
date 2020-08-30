@@ -13,6 +13,7 @@ the LOTD patch.
 **Official Patches:**
 * https://www.nexusmods.com/skyrimspecialedition/mods/30980 (Note: contains 2 ESPs)
 *https://www.nexusmods.com/skyrimspecialedition/mods/31416?tab=files (patch for respawnable aetherium ore, also grab the shield mesh fix if you need it)
+
 *https://www.nexusmods.com/skyrimspecialedition/mods/24094?tab=files (shiny-bright better armor textures)
 
 
